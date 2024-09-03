@@ -26,8 +26,9 @@ VipChatApp is a simple, yet powerful web-based chat application built using the 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/VipWebChat.git
-   cd VipWebChat
+   git clone https://github.com/yourusername/VipChatApp.git
+   
+   cd VipChatApp
    ```
 
 2. **Build the project:**
