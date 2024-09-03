@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>VipWebChat</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="banner">
+    <h1>VipWebChat</h1>
+</div>
+<div id="usernameContainer">
+    <input type="text" id="username" placeholder="Enter your username">
+    <button id="connect">Connect</button>
+</div>
+<div id="chatControls" style="display: none;">
+    <input id="message" placeholder="Type your message">
+    <button id="send">Send</button>
+    <button id="logout">Logout</button>
+</div>
+<div id="pos" >
+    <label id="position" style="display: none;">position_queue</label>
+</div>
+<ul id="userlist"> <!-- Built by JS --> </ul>
+<div id="chat">    <!-- Built by JS --> </div>
+<script src="chatJSclient.js"></script>
+</body>
+</html>
