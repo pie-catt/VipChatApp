@@ -1,8 +1,7 @@
 
-# VipWebChat
+# VipChatApp
 
-VipWebChat is a simple, yet powerful web-based chat application built using the [Javalin](https://javalin.io/) framework, WebSocket technology, and other modern tools. This application allows multiple users to chat in real-time with a smooth and responsive user experience.
-
+VipChatApp is a simple, yet powerful web-based chat application built using the [Javalin](https://javalin.io/) framework, WebSocket technology, and other modern tools. This application allows multiple users to chat in real-time.
 ## Features
 
 - **Real-time Messaging:** Chat with other users in real-time.
